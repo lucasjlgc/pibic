@@ -1,4 +1,4 @@
-# pibic
+# Pibic
 
 ## integrated development environment (IDE)
 * VSCode
